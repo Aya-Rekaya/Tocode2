@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre titre="C est le titre de mon livre">
+	<auteur nom="BENALI" prenom="SALAH">
+	</auteur>
+	<auteur nom="BOULBEBA" prenom="SAMI">
+	</auteur>
+	<sections>
+		<section titre ="premiere section">
+			<chapitres>
+				<chapitre titre="premier chapitre">
+					<paragraphe>
+						>&lt;element id="10"&gt;&amp;gt;&lt;/element&gt;
+						Premier paragrphe chapitre1 section1
+					</paragraphe>
+					<paragraphe>
+						<![CDATA[<element id="10">&gt;</element>]]>
+						Deuxième paragraphe chapitre1 section1
+					</paragraphe>
+				</chapitre>
+				<chapitre titre ="deuxieme chapitre">
+					<paragraphe>
+						Premier paragrphe chapitre2 section1
+					</paragraphe>
+					<paragraphe>
+						Deuxième paragraphe chapitre2 section1
+					</paragraphe>
+				</chapitre>
+			</chapitres>
+		</section>
+		<section titre ="deuxieme section">
+			<chapitres>
+				<chapitre titre="premier chapitre">
+					<paragraphe>
+						Premier paragrphe chapitre1 section2
+					</paragraphe>
+					<paragraphe>
+						Deuxième paragraphe chapitre1 section2
+					</paragraphe>
+				</chapitre>
+				<chapitre titre="deuxieme chapitre">
+					<paragraphe>
+						Premier paragrphe chapitre2 section2
+					</paragraphe>
+					<paragraphe>
+						Deuxième paragraphe chapitre2 section2
+					</paragraphe>
+				</chapitre>
+			</chapitres>
+		</section>
+	</sections>
+</livre>

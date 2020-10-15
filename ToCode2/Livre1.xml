@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre>
+	<auteur nom="BENALI" prenom="SALAH">
+	</auteur>
+	<auteur nom="BOULBEBA" prenom="SAMI">
+	</auteur>
+	<sections>
+		<section>
+			<titre> premiere section </titre>
+			<chapitres>
+				<chapitre>
+					<titre> premier chapitre </titre>
+					<paragraphe>
+						Premier paragrphe chapitre1 section1
+					</paragraphe>
+					<paragraphe>
+						Deuxième paragraphe chapitre1 section1
+					</paragraphe>
+				</chapitre>
+				<chapitre>
+					<titre> deuxieme chapitre </titre>
+					<paragraphe>
+						Premier paragrphe chapitre2 section1
+					</paragraphe>
+					<paragraphe>
+						Deuxième paragraphe chapitre2 section1
+					</paragraphe>
+				</chapitre>
+			</chapitres>
+		</section>
+		<section>
+			<titre> deuxieme section </titre>
+			<chapitres>
+				<chapitre>
+					<titre> premier chapitre </titre>
+					<paragraphe>
+						Premier paragrphe chapitre1 section2
+					</paragraphe>
+					<paragraphe>
+						Deuxième paragraphe chapitre1 section2
+					</paragraphe>
+				</chapitre>
+				<chapitre>
+					<titre> deuxieme chapitre </titre>
+					<paragraphe>
+						Premier paragrphe chapitre2 section2
+					</paragraphe>
+					<paragraphe>
+						Deuxième paragraphe chapitre2 section2
+					</paragraphe>
+				</chapitre>
+			</chapitres>
+		</section>
+	</sections>
+</livre>
